@@ -1,5 +1,1 @@
-git is a distributed version control system
-git is free software distributed under the GPL
-git hasa mutable index called stage
-my stupid boss still prefers SVN
-aaaaaa
+日常智障了之后的git练习
